@@ -7,6 +7,5 @@
 
 
 #### Sintanonizar la radio directamente 
-```bash
+
 [Seti Syntax](http://rixol.github.io/radios/)
-```
