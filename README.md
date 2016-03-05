@@ -8,4 +8,4 @@
 
 #### Sintanonizar la radio directamente 
 
-[Seti Syntax](http://rixol.github.io/radios/)
+[http://rixol.github.io/Radios/](http://rixol.github.io/Radios/)
